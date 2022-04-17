@@ -1,0 +1,76 @@
+.links{
+    
+    background-image: url('../images/img/tab.jpg');
+    background-size: 75%;
+    top: 5px;
+    right: 10px;
+    left: 10px;
+    height: 120px;
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    float: left;
+}
+li{
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-right: 60px
+}
+.charts{
+    position: absolute;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.chart1{
+    background-color: rgb(71, 105, 163);
+    
+    left: 50px;
+    top: 140px;
+    right: 800px;
+    height: 35px;
+}
+
+.chart2{
+    background-color: rgb(71, 105, 163);
+    left: 800px;
+    right: 50px;
+    top: 140px;
+    height: 300px;
+}
+.chart3{
+    background-color: rgb(71, 105, 163);
+    top: 800px;
+    left: 50px;
+    right: 800px;
+    height: 300px;
+}
+.chart4{
+    background-color: rgb(71, 105, 163);
+    left: 800px;
+    right: 50px;
+    top: 800px;
+    height: 300px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+body{
+    background-color: aliceblue;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.footer{
+    top: 1500px;
+    right: 10px;
+    left: 10px;
+    height: 120px;
+    background-color: black;
+    
+}

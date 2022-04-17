@@ -1,7 +1,6 @@
 .foot {
     height: 30px;
 }
-
 .subtext{
     text-align: center;
     font-size: 1.5rem;
@@ -16,5 +15,12 @@ ul{
 }
 .anchor{
     font-size: 17px;
-    color: blue;
+}
+
+h1{
+    color: rgb(249, 224, 228);
+    text-align: center;
+}
+a{
+    color: green;
 }
